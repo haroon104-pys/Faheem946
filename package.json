@@ -1,7 +1,7 @@
 {
   "name": "FAHEEM946",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created by FAHEEM 946",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Your-Own-Bot",
